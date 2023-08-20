@@ -10,6 +10,5 @@ class Employee
     public Employee()
     {
         double currentMonthWage = ratePerHour * numberOfHoursWorked;
-
     }
 }
